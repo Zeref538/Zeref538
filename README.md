@@ -21,16 +21,14 @@ CS student building AI/ML systems **end-to-end** — local agents, RAG, forecast
 | **[Solmara](https://github.com/Zeref538/Solmara-Resort)** · [demo](https://solmara-resort-zeref.vercel.app) | Resort platform: RAG concierge + live Stripe booking | `AI concierge + booking` |
 
 **Stack** — Python · PyTorch · scikit-learn · LangChain · Ollama · FastAPI · React · Node.js · Azure · MongoDB
+
 **Certs** — Google AI Pro · Google Advanced Data Analytics · AWS AI Practitioner · OCI AI Foundations · CCST Cybersecurity
 
 ```text
 # rendering data — live from the GitHub API
 ```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeref538&show_icons=true&hide_border=true&bg_color=07090d&title_color=8b5cf6&text_color=8b98a9&icon_color=22d3ee&ring_color=8b5cf6" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref538&layout=compact&hide_border=true&bg_color=07090d&title_color=8b5cf6&text_color=8b98a9&langs_count=8" alt="Top languages"/>
-</p>
+<img src="assets/langs.svg" alt="Languages: JavaScript 52.6%, TypeScript 15.1%, Python 12.8%, Jupyter 7.2%, Java 6.1%, CSS 3.0%, Other 3.2%" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeref538&bg_color=07090d&color=8b98a9&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" width="100%" alt="Contribution activity"/>
 
