@@ -63,10 +63,6 @@ $ gh stats --render
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeref538&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeref538&bg_color=07090d&color=8b98a9&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&hide_title=true" width="100%" alt="Contribution activity"/>
 </p>
 
